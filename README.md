@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/build-passing-brightgreen" alt="Build Status">
     <img src="https://img.shields.io/badge/Servers-Proposals%20Welcome-blue" alt="Server Proposals">
 </p>
-Evolution creature neural network python game
+### Evolution creature neural network python game
 
 Watch creatures evolve after generations!
 
