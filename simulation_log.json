@@ -1,0 +1,702 @@
+[
+  {
+    "generation": 1,
+    "start_population": 30,
+    "food_eaten": 27,
+    "survived": 30,
+    "success_percent": 100.0
+  },
+  {
+    "generation": 2,
+    "start_population": 19,
+    "food_eaten": 23,
+    "survived": 16,
+    "success_percent": 84.21052631578947
+  },
+  {
+    "generation": 3,
+    "start_population": 18,
+    "food_eaten": 11,
+    "survived": 9,
+    "success_percent": 50.0
+  },
+  {
+    "generation": 4,
+    "start_population": 19,
+    "food_eaten": 21,
+    "survived": 10,
+    "success_percent": 52.63157894736842
+  },
+  {
+    "generation": 5,
+    "start_population": 18,
+    "food_eaten": 46,
+    "survived": 12,
+    "success_percent": 66.66666666666666
+  },
+  {
+    "generation": 6,
+    "start_population": 20,
+    "food_eaten": 38,
+    "survived": 4,
+    "success_percent": 20.0
+  },
+  {
+    "generation": 7,
+    "start_population": 13,
+    "food_eaten": 31,
+    "survived": 5,
+    "success_percent": 38.46153846153847
+  },
+  {
+    "generation": 8,
+    "start_population": 15,
+    "food_eaten": 63,
+    "survived": 9,
+    "success_percent": 60.0
+  },
+  {
+    "generation": 9,
+    "start_population": 19,
+    "food_eaten": 125,
+    "survived": 9,
+    "success_percent": 47.368421052631575
+  },
+  {
+    "generation": 10,
+    "start_population": 18,
+    "food_eaten": 147,
+    "survived": 9,
+    "success_percent": 50.0
+  },
+  {
+    "generation": 11,
+    "start_population": 20,
+    "food_eaten": 190,
+    "survived": 11,
+    "success_percent": 55.00000000000001
+  },
+  {
+    "generation": 12,
+    "start_population": 18,
+    "food_eaten": 184,
+    "survived": 11,
+    "success_percent": 61.111111111111114
+  },
+  {
+    "generation": 13,
+    "start_population": 21,
+    "food_eaten": 236,
+    "survived": 16,
+    "success_percent": 76.19047619047619
+  },
+  {
+    "generation": 14,
+    "start_population": 25,
+    "food_eaten": 291,
+    "survived": 18,
+    "success_percent": 72.0
+  },
+  {
+    "generation": 15,
+    "start_population": 28,
+    "food_eaten": 300,
+    "survived": 20,
+    "success_percent": 71.42857142857143
+  },
+  {
+    "generation": 16,
+    "start_population": 30,
+    "food_eaten": 300,
+    "survived": 19,
+    "success_percent": 63.33333333333333
+  },
+  {
+    "generation": 17,
+    "start_population": 24,
+    "food_eaten": 300,
+    "survived": 15,
+    "success_percent": 62.5
+  },
+  {
+    "generation": 18,
+    "start_population": 27,
+    "food_eaten": 300,
+    "survived": 19,
+    "success_percent": 70.37037037037037
+  },
+  {
+    "generation": 19,
+    "start_population": 30,
+    "food_eaten": 300,
+    "survived": 18,
+    "success_percent": 60.0
+  },
+  {
+    "generation": 20,
+    "start_population": 30,
+    "food_eaten": 300,
+    "survived": 15,
+    "success_percent": 50.0
+  },
+  {
+    "generation": 21,
+    "start_population": 22,
+    "food_eaten": 300,
+    "survived": 18,
+    "success_percent": 81.81818181818183
+  },
+  {
+    "generation": 22,
+    "start_population": 33,
+    "food_eaten": 300,
+    "survived": 12,
+    "success_percent": 36.36363636363637
+  },
+  {
+    "generation": 23,
+    "start_population": 18,
+    "food_eaten": 300,
+    "survived": 16,
+    "success_percent": 88.88888888888889
+  },
+  {
+    "generation": 24,
+    "start_population": 34,
+    "food_eaten": 300,
+    "survived": 23,
+    "success_percent": 67.64705882352942
+  },
+  {
+    "generation": 25,
+    "start_population": 34,
+    "food_eaten": 300,
+    "survived": 24,
+    "success_percent": 70.58823529411765
+  },
+  {
+    "generation": 26,
+    "start_population": 32,
+    "food_eaten": 300,
+    "survived": 16,
+    "success_percent": 50.0
+  },
+  {
+    "generation": 27,
+    "start_population": 30,
+    "food_eaten": 300,
+    "survived": 23,
+    "success_percent": 76.66666666666667
+  },
+  {
+    "generation": 28,
+    "start_population": 32,
+    "food_eaten": 300,
+    "survived": 23,
+    "success_percent": 71.875
+  },
+  {
+    "generation": 29,
+    "start_population": 32,
+    "food_eaten": 300,
+    "survived": 28,
+    "success_percent": 87.5
+  },
+  {
+    "generation": 30,
+    "start_population": 47,
+    "food_eaten": 300,
+    "survived": 41,
+    "success_percent": 87.2340425531915
+  },
+  {
+    "generation": 31,
+    "start_population": 43,
+    "food_eaten": 300,
+    "survived": 33,
+    "success_percent": 76.74418604651163
+  },
+  {
+    "generation": 32,
+    "start_population": 46,
+    "food_eaten": 300,
+    "survived": 35,
+    "success_percent": 76.08695652173914
+  },
+  {
+    "generation": 33,
+    "start_population": 36,
+    "food_eaten": 300,
+    "survived": 28,
+    "success_percent": 77.77777777777779
+  },
+  {
+    "generation": 34,
+    "start_population": 37,
+    "food_eaten": 300,
+    "survived": 29,
+    "success_percent": 78.37837837837837
+  },
+  {
+    "generation": 35,
+    "start_population": 36,
+    "food_eaten": 300,
+    "survived": 32,
+    "success_percent": 88.88888888888889
+  },
+  {
+    "generation": 36,
+    "start_population": 43,
+    "food_eaten": 300,
+    "survived": 34,
+    "success_percent": 79.06976744186046
+  },
+  {
+    "generation": 37,
+    "start_population": 40,
+    "food_eaten": 300,
+    "survived": 30,
+    "success_percent": 75.0
+  },
+  {
+    "generation": 38,
+    "start_population": 41,
+    "food_eaten": 300,
+    "survived": 22,
+    "success_percent": 53.65853658536586
+  },
+  {
+    "generation": 39,
+    "start_population": 29,
+    "food_eaten": 300,
+    "survived": 24,
+    "success_percent": 82.75862068965517
+  },
+  {
+    "generation": 40,
+    "start_population": 32,
+    "food_eaten": 300,
+    "survived": 20,
+    "success_percent": 62.5
+  },
+  {
+    "generation": 41,
+    "start_population": 37,
+    "food_eaten": 300,
+    "survived": 24,
+    "success_percent": 64.86486486486487
+  },
+  {
+    "generation": 42,
+    "start_population": 34,
+    "food_eaten": 300,
+    "survived": 22,
+    "success_percent": 64.70588235294117
+  },
+  {
+    "generation": 43,
+    "start_population": 37,
+    "food_eaten": 300,
+    "survived": 31,
+    "success_percent": 83.78378378378379
+  },
+  {
+    "generation": 44,
+    "start_population": 36,
+    "food_eaten": 300,
+    "survived": 29,
+    "success_percent": 80.55555555555556
+  },
+  {
+    "generation": 45,
+    "start_population": 43,
+    "food_eaten": 300,
+    "survived": 33,
+    "success_percent": 76.74418604651163
+  },
+  {
+    "generation": 46,
+    "start_population": 40,
+    "food_eaten": 300,
+    "survived": 28,
+    "success_percent": 70.0
+  },
+  {
+    "generation": 47,
+    "start_population": 38,
+    "food_eaten": 300,
+    "survived": 28,
+    "success_percent": 73.68421052631578
+  },
+  {
+    "generation": 48,
+    "start_population": 41,
+    "food_eaten": 300,
+    "survived": 31,
+    "success_percent": 75.60975609756098
+  },
+  {
+    "generation": 49,
+    "start_population": 35,
+    "food_eaten": 300,
+    "survived": 20,
+    "success_percent": 57.14285714285714
+  },
+  {
+    "generation": 50,
+    "start_population": 28,
+    "food_eaten": 300,
+    "survived": 23,
+    "success_percent": 82.14285714285714
+  },
+  {
+    "generation": 51,
+    "start_population": 31,
+    "food_eaten": 300,
+    "survived": 27,
+    "success_percent": 87.09677419354838
+  },
+  {
+    "generation": 52,
+    "start_population": 34,
+    "food_eaten": 300,
+    "survived": 29,
+    "success_percent": 85.29411764705883
+  },
+  {
+    "generation": 53,
+    "start_population": 41,
+    "food_eaten": 300,
+    "survived": 24,
+    "success_percent": 58.536585365853654
+  },
+  {
+    "generation": 54,
+    "start_population": 35,
+    "food_eaten": 303,
+    "survived": 28,
+    "success_percent": 80.0
+  },
+  {
+    "generation": 55,
+    "start_population": 44,
+    "food_eaten": 321,
+    "survived": 30,
+    "success_percent": 68.18181818181817
+  },
+  {
+    "generation": 56,
+    "start_population": 35,
+    "food_eaten": 302,
+    "survived": 21,
+    "success_percent": 60.0
+  },
+  {
+    "generation": 57,
+    "start_population": 28,
+    "food_eaten": 348,
+    "survived": 13,
+    "success_percent": 46.42857142857143
+  },
+  {
+    "generation": 58,
+    "start_population": 25,
+    "food_eaten": 352,
+    "survived": 13,
+    "success_percent": 52.0
+  },
+  {
+    "generation": 59,
+    "start_population": 20,
+    "food_eaten": 332,
+    "survived": 10,
+    "success_percent": 50.0
+  },
+  {
+    "generation": 60,
+    "start_population": 21,
+    "food_eaten": 318,
+    "survived": 16,
+    "success_percent": 76.19047619047619
+  },
+  {
+    "generation": 61,
+    "start_population": 33,
+    "food_eaten": 320,
+    "survived": 31,
+    "success_percent": 93.93939393939394
+  },
+  {
+    "generation": 62,
+    "start_population": 47,
+    "food_eaten": 323,
+    "survived": 42,
+    "success_percent": 89.36170212765957
+  },
+  {
+    "generation": 63,
+    "start_population": 48,
+    "food_eaten": 302,
+    "survived": 33,
+    "success_percent": 68.75
+  },
+  {
+    "generation": 64,
+    "start_population": 45,
+    "food_eaten": 303,
+    "survived": 39,
+    "success_percent": 86.66666666666667
+  },
+  {
+    "generation": 65,
+    "start_population": 43,
+    "food_eaten": 301,
+    "survived": 27,
+    "success_percent": 62.7906976744186
+  },
+  {
+    "generation": 66,
+    "start_population": 47,
+    "food_eaten": 300,
+    "survived": 41,
+    "success_percent": 87.2340425531915
+  },
+  {
+    "generation": 67,
+    "start_population": 35,
+    "food_eaten": 300,
+    "survived": 28,
+    "success_percent": 80.0
+  },
+  {
+    "generation": 68,
+    "start_population": 38,
+    "food_eaten": 300,
+    "survived": 32,
+    "success_percent": 84.21052631578947
+  },
+  {
+    "generation": 69,
+    "start_population": 50,
+    "food_eaten": 300,
+    "survived": 25,
+    "success_percent": 50.0
+  },
+  {
+    "generation": 70,
+    "start_population": 37,
+    "food_eaten": 300,
+    "survived": 31,
+    "success_percent": 83.78378378378379
+  },
+  {
+    "generation": 71,
+    "start_population": 42,
+    "food_eaten": 300,
+    "survived": 29,
+    "success_percent": 69.04761904761905
+  },
+  {
+    "generation": 72,
+    "start_population": 43,
+    "food_eaten": 300,
+    "survived": 29,
+    "success_percent": 67.44186046511628
+  },
+  {
+    "generation": 73,
+    "start_population": 44,
+    "food_eaten": 300,
+    "survived": 18,
+    "success_percent": 40.909090909090914
+  },
+  {
+    "generation": 74,
+    "start_population": 20,
+    "food_eaten": 300,
+    "survived": 19,
+    "success_percent": 95.0
+  },
+  {
+    "generation": 75,
+    "start_population": 39,
+    "food_eaten": 300,
+    "survived": 38,
+    "success_percent": 97.43589743589743
+  },
+  {
+    "generation": 76,
+    "start_population": 50,
+    "food_eaten": 300,
+    "survived": 44,
+    "success_percent": 88.0
+  },
+  {
+    "generation": 77,
+    "start_population": 40,
+    "food_eaten": 300,
+    "survived": 37,
+    "success_percent": 92.5
+  },
+  {
+    "generation": 78,
+    "start_population": 45,
+    "food_eaten": 300,
+    "survived": 37,
+    "success_percent": 82.22222222222221
+  },
+  {
+    "generation": 79,
+    "start_population": 48,
+    "food_eaten": 300,
+    "survived": 47,
+    "success_percent": 97.91666666666666
+  },
+  {
+    "generation": 80,
+    "start_population": 56,
+    "food_eaten": 300,
+    "survived": 49,
+    "success_percent": 87.5
+  },
+  {
+    "generation": 81,
+    "start_population": 44,
+    "food_eaten": 300,
+    "survived": 43,
+    "success_percent": 97.72727272727273
+  },
+  {
+    "generation": 82,
+    "start_population": 48,
+    "food_eaten": 300,
+    "survived": 43,
+    "success_percent": 89.58333333333334
+  },
+  {
+    "generation": 83,
+    "start_population": 57,
+    "food_eaten": 300,
+    "survived": 54,
+    "success_percent": 94.73684210526315
+  },
+  {
+    "generation": 84,
+    "start_population": 39,
+    "food_eaten": 300,
+    "survived": 30,
+    "success_percent": 76.92307692307693
+  },
+  {
+    "generation": 85,
+    "start_population": 38,
+    "food_eaten": 300,
+    "survived": 26,
+    "success_percent": 68.42105263157895
+  },
+  {
+    "generation": 86,
+    "start_population": 39,
+    "food_eaten": 300,
+    "survived": 33,
+    "success_percent": 84.61538461538461
+  },
+  {
+    "generation": 87,
+    "start_population": 37,
+    "food_eaten": 300,
+    "survived": 29,
+    "success_percent": 78.37837837837837
+  },
+  {
+    "generation": 88,
+    "start_population": 30,
+    "food_eaten": 300,
+    "survived": 24,
+    "success_percent": 80.0
+  },
+  {
+    "generation": 89,
+    "start_population": 33,
+    "food_eaten": 300,
+    "survived": 21,
+    "success_percent": 63.63636363636363
+  },
+  {
+    "generation": 90,
+    "start_population": 29,
+    "food_eaten": 300,
+    "survived": 26,
+    "success_percent": 89.65517241379311
+  },
+  {
+    "generation": 91,
+    "start_population": 41,
+    "food_eaten": 300,
+    "survived": 31,
+    "success_percent": 75.60975609756098
+  },
+  {
+    "generation": 92,
+    "start_population": 33,
+    "food_eaten": 300,
+    "survived": 25,
+    "success_percent": 75.75757575757575
+  },
+  {
+    "generation": 93,
+    "start_population": 35,
+    "food_eaten": 300,
+    "survived": 33,
+    "success_percent": 94.28571428571428
+  },
+  {
+    "generation": 94,
+    "start_population": 36,
+    "food_eaten": 300,
+    "survived": 33,
+    "success_percent": 91.66666666666666
+  },
+  {
+    "generation": 95,
+    "start_population": 41,
+    "food_eaten": 300,
+    "survived": 35,
+    "success_percent": 85.36585365853658
+  },
+  {
+    "generation": 96,
+    "start_population": 41,
+    "food_eaten": 300,
+    "survived": 26,
+    "success_percent": 63.41463414634146
+  },
+  {
+    "generation": 97,
+    "start_population": 55,
+    "food_eaten": 300,
+    "survived": 36,
+    "success_percent": 65.45454545454545
+  },
+  {
+    "generation": 98,
+    "start_population": 43,
+    "food_eaten": 300,
+    "survived": 11,
+    "success_percent": 25.581395348837212
+  },
+  {
+    "generation": 99,
+    "start_population": 21,
+    "food_eaten": 300,
+    "survived": 18,
+    "success_percent": 85.71428571428571
+  },
+  {
+    "generation": 100,
+    "start_population": 41,
+    "food_eaten": 300,
+    "survived": 41,
+    "success_percent": 100.0
+  }
+]
