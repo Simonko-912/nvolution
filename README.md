@@ -1,4 +1,15 @@
 # Nvolution
+<p align="center"> 
+    <img src="https://img.shields.io/github/issues/Simonko-912/nvolution" alt="Issues">
+    <img src="https://img.shields.io/github/forks/Simonko-912/nvolution" alt="Forks">
+    <img src="https://img.shields.io/github/stars/Simonko-912/nvolution" alt="Stars">
+    <img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" alt="License (Apache 2.0)">
+    <img src="https://img.shields.io/badge/version-0.0.1-blue" alt="Version">
+    <img src="https://img.shields.io/badge/contributors-2-orange" alt="Contributors">
+    <img src="https://img.shields.io/github/downloads/Simonko-912/nvolution/total" alt="Downloads">
+    <img src="https://img.shields.io/badge/build-passing-brightgreen" alt="Build Status">
+    <img src="https://img.shields.io/badge/Servers-Proposals%20Welcome-blue" alt="Server Proposals">
+</p>
 Evolution creature neural network python game
 
 Watch creatures evolve after generations!
