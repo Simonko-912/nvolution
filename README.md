@@ -4,12 +4,12 @@ Evolution creature neural network python game
 Watch creatures evolve after generations!
 
 Creatures:
-1. Have 2 layer neural network brains (32 neurons total)
+1. Have 1 layer neural network brains (16 neurons total)
 2. Have 13 segment vision segments
 3. Comunicate using scent
 4. Rare mutations
 5. Only the fitest survive
-
+6. (Deafult neuron ammount is 16, you can set it to 64 and more, 64 is recomended for better devices)
 Gameplay:
 1. Only right click to make food right now
 
