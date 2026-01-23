@@ -35,6 +35,7 @@ GENERATION_STEPS = 1000  # cycles per generation
 SCENT_SPREAD_RADIUS = 6
 SCENT_FALLOFF = 1.5
 SHOW_SCENT = True
+LAYER_NEURONS = 16 # number of neurons for the hidden layer, before changing delete the old model!
 
 MODEL_SAVE_PATH = "newest"
 ```
