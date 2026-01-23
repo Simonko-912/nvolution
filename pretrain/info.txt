@@ -1,1 +1,3 @@
-Here are files related to a pretrained 16 neuron creature. It was trained for 599 generations and is quite good.
+Here are files related to Pretrained creatures. The subdirectories will include the neuron count for each layer and generation ammount:
+
+Ntotal_Nperlayer_Layerammount_Gen
