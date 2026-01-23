@@ -1,0 +1,1 @@
+Here are files related to a pretrained 16 neuron creature. It was trained for 599 generations and is quite good.
