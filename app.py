@@ -22,6 +22,7 @@ GENERATION_STEPS = 1000  # cycles per generation
 SCENT_SPREAD_RADIUS = 6
 SCENT_FALLOFF = 1.5
 SHOW_SCENT = True
+LAYER_NEURONS = 16 # number of neurons for the hidden layer, before changing delete the old model!
 
 MODEL_SAVE_PATH = "newest"
 
@@ -88,9 +89,9 @@ def draw_scent_map():
 class Brain:
     def __init__(self):
         input_size = 13 + VISION_SEGMENTS
-        self.w1 = np.random.randn(16, input_size)
+        self.w1 = np.random.randn(LAYER_NEURONS, input_size)
         input_size += 4  # unused, but kept for compatibility
-        self.w2 = np.random.randn(6, 16)
+        self.w2 = np.random.randn(6, LAYER_NEURONS)
 
     def forward(self, inputs):
         h = np.tanh(np.dot(self.w1, inputs))
@@ -413,4 +414,5 @@ while running:
     for event in pygame.event.get():
         if event.type == pygame.QUIT:
             running = False
+
 pygame.quit()
