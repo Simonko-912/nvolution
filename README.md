@@ -21,7 +21,7 @@ Creatures:
 3. Comunicate using scent
 4. Rare mutations
 5. Only the fitest survive
-6. (Deafult neuron ammount is 16, you can set it to 64 and more, 64 is recomended for better devices)
+6. (Deafult neuron ammount is 64, you can set it to whatever you want the neurons to be, lower for worse devices, delete newest.json before updating)
 Gameplay:
 1. Only right click to make food right now
 
@@ -47,7 +47,7 @@ GENERATION_STEPS = 1000  # cycles per generation
 SCENT_SPREAD_RADIUS = 6
 SCENT_FALLOFF = 1.5
 SHOW_SCENT = True
-LAYER_NEURONS = 16 # number of neurons for the hidden layer, before changing delete the old model!
+LAYER_NEURONS = 64 # number of neurons for the hidden layer, before changing delete the old model!
 
 MODEL_SAVE_PATH = "newest"
 ```
