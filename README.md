@@ -7,8 +7,7 @@
     <img src="https://img.shields.io/badge/version-0.0.1-blue" alt="Version">
     <img src="https://img.shields.io/badge/contributors-2-orange" alt="Contributors">
     <img src="https://img.shields.io/github/downloads/Simonko-912/nvolution/total" alt="Downloads">
-    <img src="https://img.shields.io/badge/build-passing-brightgreen" alt="Build Status">
-    <img src="https://img.shields.io/badge/Servers-Proposals%20Welcome-blue" alt="Server Proposals">
+    <img src="https://img.shields.io/badge/build-passing-brightgreen" alt="Build Status"
 </p>
 
 ### Evolution creature neural network python game
